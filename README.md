@@ -2,7 +2,7 @@
 
 Data Availability
 
-The datasets analyzed in this study are all from publicly available datasets [1], which are downloaded from https://scglue.readthedocs.io/en/latest/data.html.
+The datasets analyzed in this study are all from publicly available datasets [1] (10x-Multiome-Pbmc10k, ATAC-Seq), which are downloaded from https://scglue.readthedocs.io/en/latest/data.html.
 
 In addition, we also provide a preprocessed version using MATLAB, which can be downloaded from the following website:
 
