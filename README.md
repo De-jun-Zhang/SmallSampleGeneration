@@ -4,7 +4,7 @@
 
 The dataset used in this study is already published and obtained from public data repositories [1] (10x-Multiome-Pbmc10k, ATAC-Seq), which is downloaded from https://scglue.readthedocs.io/en/latest/data.html.
 
-In addition, we also provide a preprocessed version using MATLAB, which can be downloaded from the following website:
+In addition, we also provide a preprocessed version using MATLAB, which can be downloaded from the following URL:
 
 https://pan.baidu.com/s/1XMR_o6vPU7RVCu0sur-1yg?pwd=4quu Password: 4quu
 
@@ -28,7 +28,7 @@ We have uploaded the 10 new single-cell datasets with corresponding implemented 
 
 The 10 diverse single-cell datasets[4] spanning multiple species (human, mouse, and zebrafish), organs (kidney, mammary gland, liver, pancreas, lung, brain, testis, and fin), sequencing platforms (Drop-seq, 10x Genomics, CEL-Seq2, inDrop, and ScarTrace), and biological complexities (4–15 cell types, 1,337–23,184 cells, and 13,446–28,205 features). Specifically, the new benchmark includes Adam (mouse kidney)[5], Alemany-Fin (zebrafish fin)[6], Bach (mouse mammary gland)[7], Guo (human testis)[8], Karaiskos (mouse kidney)[9], Li-Mammary (mouse mammary gland)[10], MacParland (human liver)[11], Muraro (human pancreas)[12], Oihane (mouse brain)[13], and Zilionis (mouse lung)[14]. These datasets provide a comprehensive benchmark for assessing the effectiveness and stability of EDG in realistic biomedical applications. All datasets are already published and obtained from public data repositories[4] at https://cblast.gao-lab.org/download.
 
-In addition, one can also download the datasets from the following website:
+In addition, one can also download the datasets from the following URL:
 
 https://pan.baidu.com/s/1nYGQQk19bxVBHN_pZ2Nq1A?pwd=sdti Password: sdti 
 
